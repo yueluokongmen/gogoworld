@@ -1,0 +1,13 @@
+{
+  "name": "gogoworld-bot",
+  "version": "0.1.0",
+  "description": "Learning skeleton for a Minecraft cooking NPC agent",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "dependencies": {
+    "mineflayer": "^4.23.0"
+  }
+}
